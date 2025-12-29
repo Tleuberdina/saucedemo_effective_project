@@ -1,0 +1,3 @@
+❌ Ошибка при создании драйвера: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+🔄 Пытаемся использовать fallback-стратегию...
