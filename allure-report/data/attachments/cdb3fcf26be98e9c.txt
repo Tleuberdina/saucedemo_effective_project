@@ -1,3 +1,0 @@
-❌ Ошибка при создании драйвера: Message: Service /usr/bin/google-chrome unexpectedly exited. Status code was: 1
-
-🔄 Пытаемся использовать fallback-стратегию...
