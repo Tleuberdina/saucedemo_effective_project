@@ -190,6 +190,7 @@ wheels/
 *.egg
 
 # Test reports
+allure-report/
 allure-results/
 reports/
 *.html
